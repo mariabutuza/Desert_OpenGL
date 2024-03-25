@@ -1,0 +1,21 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Lab11.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Camera.cpp
+  main.cpp
+C:\Users\Asus\Desktop\Lab11\Lab11\Lab11\main.cpp(157,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\Desktop\Lab11\Lab11\Lab11\main.cpp(158,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\Desktop\Lab11\Lab11\Lab11\main.cpp(162,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\Desktop\Lab11\Lab11\Lab11\main.cpp(163,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\Desktop\Lab11\Lab11\Lab11\main.cpp(164,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\Desktop\Lab11\Lab11\Lab11\main.cpp(165,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\Desktop\Lab11\Lab11\Lab11\main.cpp(174,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\Desktop\Lab11\Lab11\Lab11\main.cpp(174,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\Desktop\Lab11\Lab11\Lab11\main.cpp(630,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\Desktop\Lab11\Lab11\Lab11\main.cpp(636,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Mesh.cpp
+  Model3D.cpp
+  Shader.cpp
+  SkyBox.cpp
+  stb_image.cpp
+  tiny_obj_loader.cpp
+  Generating Code...
+  Proiect.vcxproj -> C:\Users\Asus\Desktop\work\AN III\PG\Proiect\x64\Debug\Proiect.exe

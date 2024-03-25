@@ -1,0 +1,16 @@
+﻿  Camera.cpp
+c1xx : fatal  error C1083: Cannot open source file: '..\..\..\..\Lab11\Lab11\Lab11\Camera.cpp': No such file or directory
+  main.cpp
+c1xx : fatal  error C1083: Cannot open source file: '..\..\..\..\Lab11\Lab11\Lab11\main.cpp': No such file or directory
+  Mesh.cpp
+c1xx : fatal  error C1083: Cannot open source file: '..\..\..\..\Lab11\Lab11\Lab11\Mesh.cpp': No such file or directory
+  Model3D.cpp
+c1xx : fatal  error C1083: Cannot open source file: '..\..\..\..\Lab11\Lab11\Lab11\Model3D.cpp': No such file or directory
+  Shader.cpp
+c1xx : fatal  error C1083: Cannot open source file: '..\..\..\..\Lab11\Lab11\Lab11\Shader.cpp': No such file or directory
+  SkyBox.cpp
+c1xx : fatal  error C1083: Cannot open source file: '..\..\..\..\Lab11\Lab11\Lab11\SkyBox.cpp': No such file or directory
+  stb_image.cpp
+c1xx : fatal  error C1083: Cannot open source file: '..\..\..\..\Lab11\Lab11\Lab11\stb_image.cpp': No such file or directory
+  tiny_obj_loader.cpp
+c1xx : fatal  error C1083: Cannot open source file: '..\..\..\..\Lab11\Lab11\Lab11\tiny_obj_loader.cpp': No such file or directory

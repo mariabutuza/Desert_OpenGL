@@ -1,0 +1,10 @@
+﻿  main.cpp
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(141,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(142,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(146,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(147,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(148,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(149,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(158,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Anu3\Proiectare Grafica\Lab11\Lab11\main.cpp(158,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Lab11.vcxproj -> E:\Anu3\Proiectare Grafica\Lab11\x64\Debug\Lab11.exe
